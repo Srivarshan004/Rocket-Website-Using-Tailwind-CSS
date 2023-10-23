@@ -11,10 +11,10 @@ module.exports = {
         'tallscreen': { 'raw': '(max-aspect-ratio: 13/20)' },
       },
       keyframes: {
-        'open menu' : {
-          '0%' : { transform : 'scaleY(0)' },
-          '80%' : { transform : 'scaleY(1.2)' },
-          '100%' : { transform : 'scaleY(1)' },
+        'open menu': {
+          '0%': { transform: 'scaleY(0)' },
+          '80%': { transform: 'scaleY(1.2)' },
+          '100%': { transform: 'scaleY(1)' },
         }
       },
       animation: {
